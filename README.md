@@ -8,10 +8,10 @@ Materials for Ed Tech DMV Meet Up: How Big Data Analyses Affect the Public Educa
 
 - Computing resources
  - [Amazon Web Services (AWS)]()
- - Do It Yourself: 
+ - Do It Yourself Example: 
     - Core i7 
-    - 32 GB Ram 
-    - 120GB SSD for Ubunutu OS
+    - 32GB Ram 
+    - 120GB SSD for Ubuntu LTS
     - 1TB RAID for data storage
 
 - [LearnDC Equity Reports and School Profiles](http://learndc.org/)

@@ -3,8 +3,8 @@ Materials for Ed Tech DMV Meet Up: How Big Data Analyses Affect the Public Educa
 
 ## Powerpoint Links
 - More on big data from Hadley Wickham:
- - Interview with Peadar Coyle[https://peadarcoyle.wordpress.com/2015/08/02/interview-with-a-data-scientist-hadley-wickham/]
- - R for Data Science[http://r4ds.had.co.nz/intro.html]
+ - [Interview with Peadar Coyle](https://peadarcoyle.wordpress.com/2015/08/02/interview-with-a-data-scientist-hadley-wickham/)
+ - [R for Data Science](http://r4ds.had.co.nz/intro.html)
 
 - [LearnDC Equity Reports and School Profiles](http://learndc.org/)
 - [Performance Management Framework (PMF) Reports](http://www.dcpcsb.org/2015-school-profiles-and-pmf-tiers)

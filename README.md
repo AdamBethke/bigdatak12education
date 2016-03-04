@@ -6,11 +6,21 @@ Materials for Ed Tech DMV Meet Up: How Big Data Analyses Affect the Public Educa
  - [Interview with Peadar Coyle](https://peadarcoyle.wordpress.com/2015/08/02/interview-with-a-data-scientist-hadley-wickham/)
  - [R for Data Science](http://r4ds.had.co.nz/intro.html)
 
+- Computing resources
+ - [Amazon Web Services (AWS)]()
+ - Do It Yourself: 
+   - Core i7 
+   - 32 GB Ram 
+   - 120GB SSD for Ubunutu OS
+   - 1TB RAID for data storage
+
 - [LearnDC Equity Reports and School Profiles](http://learndc.org/)
 - [Performance Management Framework (PMF) Reports](http://www.dcpcsb.org/2015-school-profiles-and-pmf-tiers)
 - [Attendance, Discipline, and Truancy Report](http://www.dcpcsb.org/report/attendance-discipline-and-truancy-report)
 - [2014-15 PARCC Scores](http://osse.dc.gov/parcc)
 - [Ben Robinson’s Learn DC Package](http://github.com/benjaminrobinson/LearnDC)
+
+
 
 ## Sample Data
 Example datasets that are publicly available. 

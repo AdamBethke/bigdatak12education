@@ -8,7 +8,7 @@ Materials for Ed Tech DMV Meet Up: How Big Data Analyses Affect the Public Educa
 
 - Computing resources
  - [Amazon Web Services (AWS)]()
- - Do It Yourself Example: 
+ - Do It Yourself
     - Ubuntu LTS
     - R Studio Server
     - SSH + SCP

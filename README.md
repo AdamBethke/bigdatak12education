@@ -1,5 +1,5 @@
 # bigdatak12education
-Materials for Ed Tech DMV Meet Up: How Big Data Analyses Affect the Public Education Performance _
+Materials for Ed Tech DMV Meet Up: How Big Data Analyses Affect the Public Education Performance
 
 ## Powerpoint Links
 - More on big data from Hadley Wickham:
@@ -19,8 +19,6 @@ Materials for Ed Tech DMV Meet Up: How Big Data Analyses Affect the Public Educa
 - [Attendance, Discipline, and Truancy Report](http://www.dcpcsb.org/report/attendance-discipline-and-truancy-report)
 - [2014-15 PARCC Scores](http://osse.dc.gov/parcc)
 - [Ben Robinson’s Learn DC Package](http://github.com/benjaminrobinson/LearnDC)
-
-
 
 ## Sample Data
 Example datasets that are publicly available. 
